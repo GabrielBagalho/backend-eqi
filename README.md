@@ -27,6 +27,7 @@ Crie um banco de dados no PostqresSQL com o nome de < backend-eqi >
 
 OBS: Certifique-se de que o seu banco de dados esta na porta < 5432 >
 verifique se já tem algum banco com a mesma porta.
+Caso houver terá que mudar a porta para <5433>
 
 Após certificar-se que todos os passos foram seguidos 
 
